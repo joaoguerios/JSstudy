@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+button {
+    padding: 10px;
+    background-color: rgba(114, 182, 235, 0.63);
+    border-radius: 10%;
+    border: solid black;
+    font-size: 17px;
+}
+
+.main {
+    display: flex;
+}
+
+.side {
+    width: 90%;
+    height: 99vw;
+}
+
+#container {
+    background-color: rgba(41, 41, 41, 1);
+    border: solid black 2px;
+    width: 1000px;
+}
+
+.headerofList {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 43px;
+    padding-right: 55px;
+    font-size: 20px;
+}
+
+.content {
+    justify-content: space-between;
+    display: flex;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+
+.imglist {
+    border-radius: 30%;
+    padding-left: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+.list {
+    width: 60%;
+}
+
+.addtask {
+    text-align: center;
+}
+
+.form {
+    width: 500px;
+    height: 25px;
+    border-radius: 5%;
+    border: solid black 3px;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.tasks {
+    padding: 20px;
+}
+
+.tasks p {
+    padding: 10px;
+}
+
+.tarefa-selecionada {
+    color: red;
+    border: solid red 1px;
+}

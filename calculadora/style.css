@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    align-items: center;
+    display: flex;
+    
+}
+h1{
+    text-align: center;
+}
+.calculadora{
+    width: 400px;
+    background-color: rgba(112, 197, 243, 0.794);
+}
+.display{
+    font-size: 2em;
+    text-align: right;
+}
+
+button{
+    background-color: aliceblue;
+    width: 75px;
+    height: 50px;
+    font-size: 2em;
+    font-family: sans-serif;
+    border: none;
+}
+
+button:hover{
+    background-color: rgb(200, 222, 241);
+}
