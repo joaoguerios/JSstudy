@@ -1,0 +1,13 @@
+img {
+    width: 500px;
+    height: 300px;
+}
+
+.divPadrao {
+    padding: 40px;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(197, 120, 120);
+    display: inline-block;
+    margin-top: 20px;
+}

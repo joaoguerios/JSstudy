@@ -1,0 +1,17 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(163, 69, 167);
+}
+
+.troca {
+    color: black;
+}
+
+.divPadrao {
+    padding: 20px;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(197, 120, 120);
+    display: inline-block;
+}
